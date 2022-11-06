@@ -6,4 +6,3 @@ app=Flask(__name__)
 def home():
     return "Hello World"
 
-app.run()
